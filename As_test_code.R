@@ -5,3 +5,6 @@
 df <- data.frame(installed.packages())
 
 df
+
+
+#insightful comment
